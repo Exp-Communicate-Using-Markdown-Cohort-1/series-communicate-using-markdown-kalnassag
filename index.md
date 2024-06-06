@@ -8,3 +8,7 @@
   <label for="rbutton">This is a radio button</label>
 </form>
 ```
+
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
